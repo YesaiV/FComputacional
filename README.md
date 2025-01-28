@@ -1,2 +1,2 @@
-# FCompitacional
+# FComputacional
 Trabajos de física computacional
